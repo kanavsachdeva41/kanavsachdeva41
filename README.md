@@ -8,13 +8,13 @@
 
 ♨️ Skills: C, Beginner Github
 
-🌲 Nature lover | Patriotic | Teamwork🙌 | Social & Cooperative
+🌲 Nature lover | 🇮🇳 Patriotic | Teamwork 🙌 | Social & Cooperative
 
 ---
 
 ## 📑 Projects I am working on:
--  Basic C Programs
--  College assignments and notes
+-  🔰Basic C Programs
+-  🗒️College assignments and notes
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 
-🌟 **Fun Fact**: I am open to learn everything that helps me grow as a purpose driven engineer keeping in mind the Sustainable Development goals.
+🌟 **Fun Fact**: I am open to learn everything that helps me grow as a purpose driven engineer keeping in mind the Sustainable Development goals 👨‍💻
 
 <!--
 **kanavsachdeva41/kanavsachdeva41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
