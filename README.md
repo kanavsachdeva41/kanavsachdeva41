@@ -25,7 +25,7 @@
 ---
 
 
-🌟 **Fun Fact**: I am open to learn everything that helps me grow as a purpose driven engineer keeping in mind the SUstainable Development goals 
+🌟 **Fun Fact**: I am open to learn everything that helps me grow as a purpose driven engineer keeping in mind the Sustainable Development goals.
 
 <!--
 **kanavsachdeva41/kanavsachdeva41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
